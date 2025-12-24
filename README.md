@@ -1,67 +1,72 @@
-# Hi there 👋, I'm Praveena S.
+# Hello 👋 I'm Praveena S
 
-## 👩‍💻 About Me
-I am a passionate **Data Scientist & Technical Trainer** with hands-on experience in **Machine Learning, Computer Vision, Web Development, and Python**. I love building projects that solve real-world problems and sharing knowledge with others.
+## 👩‍🏫 About Me
+I am a **Technical Trainer and Data Science Practitioner** with strong experience in **training students, building real-world machine learning projects, and applying AI concepts practically**.
 
-- 📍 Location: Coimbatore, India  
-- 🎓 Affiliation: Rathinam Technical Campus  
-- 💼 Current Role: Technical Trainer  
-- ⚡ Interests: AI, Data Science, Web Apps, Assistive Technology  
+I specialize in simplifying complex technical concepts and mentoring learners in **Python, Data Science, Machine Learning, and Computer Vision**, while continuously enhancing my own hands-on development skills.
 
----
-
-## 🛠️ Skills & Tools
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- 📍 Coimbatore, Tamil Nadu, India  
+- 🎓 Associated with Rathinam Technical Campus  
+- 💼 Role: Technical Trainer  
+- 🎯 Focus Areas: Data Science | Machine Learning | AI | Python | Computer Vision  
 
 ---
 
-## 📂 Featured Projects
+## 🧠 Core Competencies
+- Data Science Fundamentals & Applied Machine Learning  
+- Python Programming (Beginner → Advanced)  
+- Computer Vision using OpenCV  
+- Model Building, Evaluation & Interpretation  
+- Teaching, Mentoring & Curriculum Design  
+- Practical Project-Based Learning  
 
-### **Data Science & ML**
+---
+
+## 🛠️ Technical Skills
+**Languages & Tools**  
+Python | Java | SQL | HTML | CSS | JavaScript  
+
+**Libraries & Frameworks**  
+Pandas | NumPy | Scikit-learn | OpenCV | Flask | Matplotlib  
+
+**Concepts**  
+Machine Learning | Data Analysis | Model Evaluation | Computer Vision | Web Applications  
+
+---
+
+## 📂 Highlighted Projects
+
+### 🔹 Data Science & Machine Learning
 - **[Data_Scientist](https://github.com/praveenasiva/Data_Scientist)**  
-  End-to-end ML workflows, preprocessing, model building, evaluation.  
-  ![Data Science Demo](https://raw.githubusercontent.com/praveenasiva/Data_Scientist/main/demo.gif)  
+  A structured collection of data preprocessing, model building, and evaluation workflows designed for learning and real-world application.
 
 - **[decision-tree-movie-app](https://github.com/praveenasiva/decision-tree-movie-app)**  
-  Predicts user movie preferences using decision tree ML.  
-  ![Movie App Demo](https://raw.githubusercontent.com/praveenasiva/decision-tree-movie-app/main/demo.gif)
+  A machine learning application that predicts movie preferences using decision tree classification.
 
-### **Computer Vision & AI**
+### 🔹 Computer Vision & AI
 - **[face-recognition-attendance](https://github.com/praveenasiva/face-recognition-attendance)**  
-  Automates attendance using Python & OpenCV.  
-  ![Face Recognition Demo](https://raw.githubusercontent.com/praveenasiva/face-recognition-attendance/main/demo.gif)  
+  Automated attendance system using face recognition with Python and OpenCV.
 
 - **[cursor-controlled-by-eye](https://github.com/praveenasiva/cursor-controlled-by-eye)**  
-  Control the mouse using eye movements for accessibility.  
-  ![Eye Cursor Demo](https://raw.githubusercontent.com/praveenasiva/cursor-controlled-by-eye/main/demo.gif)  
+  An assistive technology project enabling cursor control through eye movement detection.
 
-### **Web Development**
+### 🔹 Web Development
 - **[url-shortener-flask](https://github.com/praveenasiva/url-shortener-flask)**  
-  Flask-based URL shortener web app.  
-  ![URL Shortener Demo](https://raw.githubusercontent.com/praveenasiva/url-shortener-flask/main/demo.gif)
+  A Flask-based web application to generate and manage shortened URLs.
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenasiva&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenasiva&theme=radical&layout=compact)
+## 📊 GitHub Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenasiva&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenasiva&layout=compact)
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveena-siva-kumar)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@praveenasivakumar)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveena.siva.a@gmail.com)  
+## 🤝 Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/praveena-siva-kumar/  
+- ✍️ Medium: https://medium.com/@praveenasivakumar  
+- 📧 Email: praveena.siva.a@gmail.com  
 
 ---
 
-*"Passion drives learning, learning drives creation, and creation drives impact."*
+> *“Strong fundamentals, continuous learning, and practical application define my approach to technology and teaching.”*
