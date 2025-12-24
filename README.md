@@ -7,10 +7,10 @@ My work revolves around **hands-on development, guiding learners, and translatin
 
 I believe that consistent practice and real implementation are the foundation for long-term growth in technology.
 
-- 📍 Coimbatore, Tamil Nadu, India  
-- 🎓 Rathinam Technical Campus  
-- 💼 Role: Technical Trainer  
-- 🎯 Areas of Interest: Data Science, Machine Learning, AI-Based Applications, Web Solutions  
+📍 Coimbatore, Tamil Nadu, India  
+🎓 Rathinam Technical Campus  
+💼 Role: Technical Trainer  
+🎯 Areas of Interest: Data Science, Machine Learning, AI-Based Applications, Web Solutions  
 
 ---
 
