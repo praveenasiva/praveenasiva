@@ -1,15 +1,16 @@
-# Hi there 👋, I'm Praveena S.
+# Hello 👋 I'm Praveena S.
 
-## 👩‍💻 About Me
-I am a **Technical Trainer and aspiring Data Scientist** with strong hands-on experience in **Python, Data Science, Machine Learning, and Computer Vision**.  
-I focus on **building practical solutions, mentoring students, and simplifying complex technical concepts** through real-world examples and projects.
+## About Me
+I am a **Technical Trainer with a strong inclination towards Data Science**, experienced in applying **Python, Machine Learning, and Computer Vision** to practical, real-world use cases.  
 
-I strongly believe in **learning by doing** and continuously enhance my skills by developing and maintaining applied AI and data-driven projects.
+My work revolves around **hands-on development, guiding learners, and translating complex technical ideas into simple, understandable concepts**. I actively improve my expertise by building AI-driven and data-focused projects that strengthen both my teaching and technical depth.
 
-- 📍 Location: Coimbatore, Tamil Nadu, India  
-- 🎓 Affiliation: Rathinam Technical Campus  
-- 💼 Current Role: Technical Trainer  
-- 🎯 Interests: Data Science, Machine Learning, AI Applications, Web-Based Solutions  
+I believe that consistent practice and real implementation are the foundation for long-term growth in technology.
+
+- 📍 Coimbatore, Tamil Nadu, India  
+- 🎓 Rathinam Technical Campus  
+- 💼 Role: Technical Trainer  
+- 🎯 Areas of Interest: Data Science, Machine Learning, AI-Based Applications, Web Solutions  
 
 ---
 
@@ -31,23 +32,22 @@ I strongly believe in **learning by doing** and continuously enhance my skills b
 
 ### **Data Science & Machine Learning**
 - **[Data_Scientist](https://github.com/praveenasiva/Data_Scientist)**  
-  A structured repository covering data preprocessing, feature engineering, model building, and evaluation techniques for real-world datasets.
+  A comprehensive repository demonstrating data preprocessing, feature selection, model training, and performance evaluation on practical datasets.
 
-- **[decision-tree-movie-app](https://github.com/praveenasiva/decision-tree-movie-app)**  
-  A machine learning application that predicts user movie preferences using decision tree classification.
+- **[Decision Tree Movie Recommendation App](https://github.com/praveenasiva/decision-tree-movie-app)**  
+  A classification-based machine learning project designed to predict user movie preferences.
 
 ### **Computer Vision & AI**
-- **[face-recognition-attendance](https://github.com/praveenasiva/face-recognition-attendance)**  
-  An automated attendance system using facial recognition implemented with Python and OpenCV.
+- **[Face Recognition Attendance System](https://github.com/praveenasiva/face-recognition-attendance)**  
+  A Python and OpenCV-based system that automates attendance using facial recognition techniques.
 
-- **[cursor-controlled-by-eye](https://github.com/praveenasiva/cursor-controlled-by-eye)**  
-  An assistive technology project that enables mouse control through eye movement detection.
+- **[Eye-Controlled Cursor System](https://github.com/praveenasiva/cursor-controlled-by-eye)**  
+  An assistive AI solution enabling cursor movement through real-time eye tracking.
 
 ### **Web Development**
-- **[url-shortener-flask](https://github.com/praveenasiva/url-shortener-flask)**  
-  A Flask-based backend application to generate and manage shortened URLs.
+- **[URL Shortener – Flask](https://github.com/praveenasiva/url-shortener-flask)**  
+  A backend-focused Flask application for generating and managing shortened URLs.
 
----
 ---
 
 ## 📫 Connect with Me
@@ -57,4 +57,4 @@ I strongly believe in **learning by doing** and continuously enhance my skills b
 
 ---
 
-*"Consistency in learning and clarity in fundamentals lead to meaningful growth."*
+*"Growth in technology comes from disciplined practice, clear fundamentals, and continuous learning."*
