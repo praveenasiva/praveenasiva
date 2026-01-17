@@ -37,7 +37,7 @@ I strongly believe that **consistent practice, project-based learning, and real-
 
 ## 📂 Featured Projects
 
-### **Data Science & Machine Learning**
+### **Machine Learning Model Portfolio**
 - **[Data_Scientist](https://github.com/praveenasiva/Data_Scientist)**  
   A comprehensive repository demonstrating data preprocessing, feature selection, model training, and performance evaluation on practical datasets.
 
